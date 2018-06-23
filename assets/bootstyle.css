@@ -1,0 +1,88 @@
+h1, h2, button {
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: white;
+}
+
+h3 {
+    padding: 3px;
+    border: 1px solid white;
+    background-color: #C70039;
+    border-radius: 10px;
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: white;
+    margin-left: 10px;
+}
+
+button {
+    float: left;
+    text-align: center;
+    color: white;
+    background-color: #C70039;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 30px;
+    margin: 10px;
+    text-shadow: 2px 3px 3px #4a4a4a;
+}
+
+#gifHolder {
+    border: 3px solid #C70039;
+    border-radius: 10px;
+    clear: both;
+    background-color: #4682B4;
+    max-height: 750px;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+}
+
+
+#buttons {
+    border: 3px solid #C70039;
+    border-radius: 10px;
+    background-color: #4682B4;
+    max-height: 750px;
+    overflow-y: scroll;
+}
+
+img {
+    float: left;
+    padding: 5px;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 410px;
+    height: 350px;
+}
+
+#giphyLogo {
+    width: 200px;
+    height: 50px;
+}
+
+#placeholder {
+    margin-top: 180px;
+    margin-bottom: 178px;
+}
+
+#header {
+    background-color: #4682B4;
+    text-shadow: 2px 3px 3px #4a4a4a;
+    margin-bottom: 10px;
+}
+
+
+form {
+    margin-left: 20px;
+}
+
+body {
+    background-image: url(./images/gifbackground2.png);
+}
+
+p {
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: white;
+    
+}
+
+
+
